@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/JJ/JJ.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
